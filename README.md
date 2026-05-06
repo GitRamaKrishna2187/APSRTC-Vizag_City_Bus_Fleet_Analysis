@@ -1,3 +1,5 @@
+PowerBI Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMGIzOGZlOTktMDJiZC00NGU3LWFkOGEtZmNiYzJiZjE4MGQxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true&pageName=a5131319b17e3768078e
+
 The Project is about APSRTC_City_bus_transit of Visakhapatnam city. This work gives an insight of APSRTC's Performance overview over the past 5 years in the Visakhapatnam City Bus transit.
 
 Dataset : The dataset is not readily available online. It is prepared using bunch of resources. Using the Data available online (News papers clippings, APSRTC's financial press notes published yearly, Wikipedia and some sources) the data set is prepared. The KPI parameters are calculated from the existing APSRTC RTI's. scaled down to daily level and used them to APSRTC Vizag city bus transit data.
