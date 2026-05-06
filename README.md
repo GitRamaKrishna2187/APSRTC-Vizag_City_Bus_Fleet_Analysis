@@ -1,6 +1,19 @@
 PowerBI Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMGIzOGZlOTktMDJiZC00NGU3LWFkOGEtZmNiYzJiZjE4MGQxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true&pageName=a5131319b17e3768078e
 
-Video link: https://youtu.be/O4ESXJoJqwE
+Youtube Video links
+1) Apsrtc VizagCity Bus Transit System_Part-1_Introduction--- https://youtu.be/O4ESXJoJqwE
+2) Dataset Preparation using Claude Prompts (Part2_APSRTC VizagCity Bus Transit System)---https://youtu.be/nopc76XZEpw
+3)Datasheet Explanation(Part3_APSRTC Vizagcity Bus Transit System) -- https://youtu.be/WVL7EAfF4u0
+4)Data correlation/Data Correction(Part4_APSRTC VizagCity BusTransit System) -- https://youtu.be/gp-8T_Bg1M4
+5)Daily Operations_KPI's(Part5_APSRTC VizagCity BusTransit System) --https://youtu.be/wZdghqGH8ms
+6)Dataset_Yearly KPI's(Part6_APSRTC_VizagCity BusTransit) -- https://youtu.be/l5w3mrYMFQU
+7)PowerBI Introduction Apsrtc VizagCity -- https://youtu.be/ilSpjLVwKOw
+8)PowerBI MeasurePreparation Apsrtc VizagCity ---https://youtu.be/6H6adDF3ZRk
+9)PowerBI Visualization Apsrtc VizagCity -- https://youtu.be/LOcIoFdgbzM
+10)PowerBI Executive Page Apsrtc VizagCity ---https://youtu.be/2yHeX35sBuw
+11)PowerBI Bus fleet page Apsrtc VizagCity -- https://youtu.be/P9baK4DI1lY
+12)PowerBI DepotScorecard_Revenue_Routes_Apsrtc VizagCity -- https://youtu.be/Yx35-he2gYo
+13)PowerBI Service Conclusion Apsrtc VizagCity -- https://youtu.be/rA_kanc9E18
 
 The Project is about APSRTC_City_bus_transit of Visakhapatnam city. This work gives an insight of APSRTC's Performance overview over the past 5 years in the Visakhapatnam City Bus transit.
 
